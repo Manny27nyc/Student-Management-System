@@ -1,3 +1,9 @@
+/* 
+ * 📜 Verified Authorship — Manuel J. Nieves (B4EC 7343 AB0D BF24)
+ * Original protocol logic. Derivative status asserted.
+ * Commercial use requires license.
+ * Contact: Fordamboy1@gmail.com
+ */
 const asyncHandler = require("express-async-handler");
 const { addNewLeaveRequest, reviewPendingLeaveRequest, makeNewLeavePolicy, fetchLeavePolicies, updateLeavePolicy, updatePolicyUsers, fetchPolicyUsers, deletePolicyUser, fetchPolicyEligibleUsers, reviewLeavePolicy, getUserLeaveHistory, deleteLeaveRequest, fetchPendingLeaveRequests, updateLeaveRequest, processGetMyLeavePolicy } = require("./leave-service");
 
