@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StudentFilterActions, StudentFilterState } from '../types';
 
 export const studentFilterReducer = (state: StudentFilterState, action: StudentFilterActions) => {

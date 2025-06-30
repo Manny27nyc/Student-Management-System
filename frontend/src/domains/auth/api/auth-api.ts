@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { api } from '@/api';
 import { LoginRequest, PasswordProps, SetupPasswordProps, User, UserId } from '../types';
 

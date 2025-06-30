@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const validateRequest = (schema) => (req, res, next) => {
     try {
         schema.parse({

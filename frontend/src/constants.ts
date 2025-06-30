@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { NameIdType } from './utils/type/misc';
 
 export const noticeStatusList: NameIdType[] = [

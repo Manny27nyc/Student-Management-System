@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const asyncHandler = require("express-async-handler");
 const { fetchAllClassTeachers, fetchClassTeacherDetailById, addNewClassTeacher, updateClassTeacher, getAllTeachers } = require("./class-teacher-service");
 

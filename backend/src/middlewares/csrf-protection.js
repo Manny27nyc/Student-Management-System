@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { env } = require("../config");
 const { ApiError, verifyToken, generateCsrfHmacHash } = require("../utils");
 

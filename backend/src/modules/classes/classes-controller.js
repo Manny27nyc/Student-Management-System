@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const asyncHandler = require("express-async-handler");
 const { fetchAllClasses, fetchClassDetail, addClass, updateClassDetail, deleteClass } = require("./classes-service");
 

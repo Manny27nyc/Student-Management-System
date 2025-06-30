@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './add-notice-page';
 export * from './edit-notice-page';
 export * from './list-notices-page';

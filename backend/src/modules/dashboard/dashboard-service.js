@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { getUserDashboardData } = require("./dashboard-repository");
 
 const fetchDashboardData = async (id) => {

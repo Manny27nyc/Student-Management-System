@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { ApiError, getAccessItemHierarchy, formatMyPermission } = require("../../utils");
 const { addAccessControl, updateAccessControl, deleteAccessControl, getAllAccessControls, getMyAccessControl } = require("./access-control-repository")
 

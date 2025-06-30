@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { ApiError } = require("../utils");
 
 const handleGlobalError = (err, req, res, next) => {

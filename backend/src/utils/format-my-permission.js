@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { getAccessItemHierarchy } = require("./get-access-item-hierarchy");
 
 const formatMyPermission = (permissions) => {

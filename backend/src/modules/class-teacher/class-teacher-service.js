@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { ApiError } = require("../../utils");
 const { getClassTeachers, addClassTeacher, getClassTeacherById, updateClassTeacherById, findAllTeachers } = require("./class-teacher-repository")
 

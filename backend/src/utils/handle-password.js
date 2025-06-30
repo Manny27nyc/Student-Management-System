@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const argon2 = require("argon2");
 const { ApiError } = require("./api-error");
 

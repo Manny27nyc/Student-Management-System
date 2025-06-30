@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { MyLeavePolicy } from '@/domains/leave/types';
 import { Notice } from '@/domains/notice/types';
 

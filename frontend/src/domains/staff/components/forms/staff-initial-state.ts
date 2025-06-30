@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { StaffFormProps } from '../../types';
 
 export const staffInitialState: StaffFormProps = {

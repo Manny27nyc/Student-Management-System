@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const express = require("express");
 const router = express.Router();
 const classesController = require("./classes-controller");

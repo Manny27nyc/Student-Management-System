@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const checkNoticeEditPermission = (status, role, authorId, userId) => {
     if (role === 'admin') {
         return authorId === userId;

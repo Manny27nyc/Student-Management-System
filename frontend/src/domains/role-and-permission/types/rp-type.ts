@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { z } from 'zod';
 import { AddEditPermissionSchema, AddEditRoleSchema } from './rp-schema';
 import { BasePermission, Permission } from '@/utils/type/misc';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const asyncHandler = require("express-async-handler");
 const { processPasswordChange, processGetAccountDetail } = require("./account-service");
 const { setAllCookies, clearAllCookies } = require("../../cookie");

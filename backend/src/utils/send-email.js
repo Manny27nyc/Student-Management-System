@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { Resend } = require("resend");
 const { env } = require("../config");
 const { ApiError } = require("./api-error");

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { handle404Error } = require("./handle-404-error");
 const { authenticateToken } = require("./authenticate-token");
 const { csrfProtection } = require("./csrf-protection");

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as React from 'react';
 import { UserAccountBasicProps } from '@/components/user-account-basic';
 import { useLazyGetStaffsQuery } from '../api/staff-api';

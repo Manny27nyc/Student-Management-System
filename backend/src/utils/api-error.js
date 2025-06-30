@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 class ApiError extends Error {
     constructor(statusCode, message) {
         super(message);

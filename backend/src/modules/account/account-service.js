@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { v4: uuidV4 } = require("uuid");
 const { env, db } = require("../../config");
 

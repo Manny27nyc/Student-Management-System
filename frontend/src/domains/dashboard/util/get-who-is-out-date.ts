@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { format, isSameMonth, isToday, isTomorrow, isYesterday } from 'date-fns';
 
 export const getFormattedLeaveDate = (fromDate: string, toDate: string): string => {

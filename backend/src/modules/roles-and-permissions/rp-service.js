@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { db } = require("../../config");
 const { ApiError, isObjectEmpty } = require("../../utils");
 const {

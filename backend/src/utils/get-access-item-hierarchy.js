@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const getAccessItemHierarchy = (items) => {
     if (!items || items.length <= 0) return [];
 

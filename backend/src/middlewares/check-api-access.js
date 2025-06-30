@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const axios = require('axios');
 const asyncHandler = require("express-async-handler");
 const asyncErrorHandler = require("../utils/asyncErrorHandler");

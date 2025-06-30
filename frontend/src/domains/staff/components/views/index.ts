@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './mini-avatar';
 export * from './others';
 export * from './parents-information';

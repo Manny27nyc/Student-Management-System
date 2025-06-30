@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { getFormattedDate, MONTH_DAY_FORMAT } from '@/utils/helpers/date';
 import { isToday, isTomorrow, isYesterday } from 'date-fns';
 

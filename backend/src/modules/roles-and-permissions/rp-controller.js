@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const asyncHandler = require("express-async-handler");
 const { fetchRoles, addRole, updateRole, processRoleStatus, fetchRole, addRolePermission, getRolePermissions, fetchUsersByRoleId, processSwitchRole } = require("./rp-service");
 

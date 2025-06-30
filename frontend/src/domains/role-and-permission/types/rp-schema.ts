@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { z } from 'zod';
 
 export const AddEditRoleSchema = z.object({

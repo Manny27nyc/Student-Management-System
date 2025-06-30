@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const asyncHandler = require("express-async-handler");
 const { processGetAllSections, processGetSectionById, processUpdateSectionById, processDeleteSectionById, processAddNewSection } = require("./section-service");
 

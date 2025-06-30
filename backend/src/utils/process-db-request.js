@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { db } = require("../config");
 const { ERROR_MESSAGES } = require("../constants");
 const { ApiError } = require("./api-error");

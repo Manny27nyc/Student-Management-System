@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as React from 'react';
 import { studentFormInitialState } from '../reducer/student-form-reducer';
 import { GetStudentDetailProps } from '../types';

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { api, Tag } from '@/api';
 import { getQueryString } from '@/utils/helpers/get-query-string';
 import {

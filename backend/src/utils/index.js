@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { ApiError } = require("./api-error");
 const { generateToken, verifyToken } = require("./jwt-handle");
 const { processDBRequest } = require("./process-db-request");

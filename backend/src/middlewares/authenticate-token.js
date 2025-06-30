@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const jwt = require("jsonwebtoken");
 const { ApiError } = require("../utils");
 const { env } = require("../config");

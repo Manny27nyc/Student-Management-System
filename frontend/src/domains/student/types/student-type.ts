@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { z } from 'zod';
 import { NameIdType } from '@/utils/type/misc';
 import { ClassPropsWithId } from '@/domains/class/types';

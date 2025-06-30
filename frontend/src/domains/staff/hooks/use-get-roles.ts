@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import * as React from 'react';
 import { useLazyGetRolesQuery } from '@/domains/role-and-permission/api';
 import { Role } from '@/domains/role-and-permission/types';

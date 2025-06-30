@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 export * from './notice-data';
 export * from './delete-recipient';
 export * from './notice-form';

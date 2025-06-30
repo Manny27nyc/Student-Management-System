@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { ApiError, sendAccountVerificationEmail } = require("../../utils");
 const { addOrUpdateStaff, reviewStaffStatus, getAllStaffs, getStaffDetailById } = require("./staffs-repository");
 

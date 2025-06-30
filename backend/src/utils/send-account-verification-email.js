@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { env } = require("../config");
 const { generateToken } = require("./jwt-handle");
 const { sendMail } = require("./send-email");

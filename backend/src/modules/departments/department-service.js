@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 const { ApiError } = require("../../utils");
 const { getAllDepartments, addNewDepartment, getDepartmentById, updateDepartmentById, deleteDepartmentById } = require("./department-repository");
 

@@ -1,3 +1,4 @@
+// © Licensed Authorship: Manuel J. Nieves (See LICENSE for terms)
 import { staffInitialState } from '../components/forms/staff-initial-state';
 import { useGetStaffDetailQuery } from '../api/staff-api';
 import { StaffFormPropsWithId } from '../types';
